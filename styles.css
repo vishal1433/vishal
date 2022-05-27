@@ -1,0 +1,30 @@
+
+  body{background-color:#97C4B8;
+}
+hr
+{
+background-color:red;
+border-style: dotted;
+height: 3px;
+}
+h1 {
+    color:rgb(33, 181, 100);
+
+    
+      }
+h2 {
+    color:rgb(22, 57, 162);
+}
+h3 {
+    color:rgb(177, 229, 44);
+}
+h4 {
+    color:rgb(232, 92, 27);
+}
+
+
+
+  img {
+    height:300px;
+    width:300px;
+  }
